@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10000,
   "WEI_COST": 2000000000000000,
   "DISPLAY_COST": 0.002,
-  "GAS_LIMIT": 80700,
+  "GAS_LIMIT": 73600,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/eggheads-the-alien-eggs",
   "SHOW_BACKGROUND": true
